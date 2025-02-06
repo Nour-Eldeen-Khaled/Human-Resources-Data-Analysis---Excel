@@ -17,6 +17,7 @@ This project analyzes HR data from a company to uncover trends, insights, and ac
     Dashboard Creation: Created interactive dashboards in Excel with analyses on locations, age groups, departments, and job titles.
 
 -- DashBoard
+
 ![Image](https://github.com/user-attachments/assets/ae7b8d27-de3e-4cb1-a482-fe64775c93e2)
 ![Image](https://github.com/user-attachments/assets/37729d5a-ea3b-478a-90ea-7931f19c1be8)
 ![Image](https://github.com/user-attachments/assets/90f7f1ec-fae4-440b-a51e-75a8e4244d55)
